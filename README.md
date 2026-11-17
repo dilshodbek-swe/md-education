@@ -78,7 +78,7 @@ Browse courses and books by category, sort them by rating or price, see job-mark
 
 ```bash
 # 1. Clone and enter the project
-git clone <your-repo-url> sammi-client
+git clone https://github.com/dilshodbek-swe/md-education sammi-client
 cd sammi-client
 
 # 2. Install dependencies
